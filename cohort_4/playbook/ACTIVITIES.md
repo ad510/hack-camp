@@ -788,9 +788,13 @@ Tell the hackers to feel free to be able skip through the content that they are 
 - It is your call if you want to demo this application (you may consider not demoing it to not demoralize the beginners)
   - However, if you do demo it, here is the [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html)
   - Step through the application as you demo
-    - open the application up in multiple windows
-    - enter all the phone numbers of all the students (have a listing of phone numbers prepared ahead of time so you can quickly copy and paste)
+    - the first step is to open have a listing of phone numbers prepared ahead of time so you can quickly copy and paste
+    - tell all the students to turn their phones to loud
+    - tell all the students to open the same link as you on their computer
+    - open your application up in multiple windows (not tabs, windows)
+    - copy and paste all the phone numbers of all the students (have a listing of phone numbers prepared ahead of time so you can quickly copy and paste)
     - go and upload a picture
+    - then show that you can upload a picture from mobile as well
     - then do it from mobile too
 
 ### Instagram Readme
