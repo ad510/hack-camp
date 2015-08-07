@@ -785,8 +785,12 @@ Tell the hackers to feel free to be able skip through the content that they are 
 - So you'll be learning how to combine HTML & Javascript in this one
 - Also, you'll be learning the fundamental aspects of computer science along the way
 - If you are very familiar with DOM manipulation and this is really easy for you, there's a section with a much more advanced version of what this instagram app could be. Take a look at that code, play around with it, and see if you can make it your own! Definitely don't force yourself to go through what you already know well! Warning: this code is not that simple.
-- It is your call if you want to demo this application (you may consider not demoing it to not demoralize the beginners)
-  - However, if you do demo it, here is the [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html)
+- Demoing the advanced application
+  - [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html)
+  - This should be inspiring to advanced and beginner hackers alike.
+    - If you're an advanced hacker you might feel that could build this and get
+      excited
+    - If you're a beginner hacker, you will begin to see what's possible.
   - Step through the application as you demo
     - the first step is to open have a listing of phone numbers prepared ahead of time so you can quickly copy and paste
     - tell all the students to turn their phones to loud
