@@ -793,13 +793,19 @@ Tell the hackers to feel free to be able skip through the content that they are 
     - If you're a beginner hacker, you will begin to see what's possible.
   - Step through the application as you demo
     - the first step is to open have a listing of phone numbers prepared ahead of time so you can quickly copy and paste
-    - tell all the students to turn their phones to loud
-    - tell all the students to open the same link as you on their computer
-    - open your application up in multiple windows (not tabs, windows)
+    - open the [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html) up in two windows (not tabs, windows so that they can be scene side by side)
     - copy and paste all the phone numbers of all the students (have a listing of phone numbers prepared ahead of time so you can quickly copy and paste)
+    - copy two of of the students numbers into your mobile phone
+    - now that you're setup, you're ready to make an announcement
+    - tell all the students to turn their phones to loud
+    - tell all the students to open [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html) on their computer
     - go and upload a picture
-    - then show that you can upload a picture from mobile as well
-    - then do it from mobile too
+    - tell them that the app uses
+      - local storage to remember the phone numbers even after it refreshes
+      - the app uses the Dweet API to send pictures to all of their screens
+    - then show that you can upload a picture from mobile as well by taking a picture of the class
+      - this will send the picture to two of the students whose names you've type in earlier
+      - this will also appear on the screen
 
 ### Instagram Readme
 [Instagram Readme](workshops/instagram/README.md)
