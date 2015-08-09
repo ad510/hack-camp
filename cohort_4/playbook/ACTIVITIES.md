@@ -694,29 +694,27 @@ of the club all form bonds with each other.
 ### Pair programming between beginner-advanced pairs
 
 Pair programming between beginner and advanced hackers is fairly similar to
-normal pair programming. The most benefit will come from the beginner driving
-and the advanced hacker navigating, so rotating is not as important a factor in
-these situations (hackers should rotate if their bordom becomes a blocking
-factor for them to continue working together, but optimize for the beginner
-driving and the advanced hacker navigating as much as possible).
-
-When pairing between beginner and advanced hackers, make sure each hacker
-understands what they are getting out of it:
+normal pair programming. They should still be rotating regularly. Do note: we've
+observed that advanced hackers often have the tendency to want to drive the
+coding completely.You may need to have to help them resist that urge by showing
+each hacker what they are getting out of it:
 
 For the advanced hacker:
 
 - True mastery of a subject can only come once someone is at the point they can
   explain it to someone. If a hacker can't navigate while pairing, they dont
-  have an indepth understanding of the topic.
+  have an in-depth understanding of the topic.
 - This is practice in working with people who don't know as much
   subject-specific information. Teaching this content to a beginning hacker is
-  practice for any future club leading activities.
+  practice for any future interaction with teammembers.
+- A team is only as strong as its weakest link. Helping teammembers gain more
+  experience and increase their knowledge can pay off later.
 
 For the beginning hacker:
 
 - Focusing only on the code is a good way to get familiar with syntax and build
   up muscle memory.
-- Anytime the hacker is lost, they can reach out to the navigator.
+- Anytime the driver is lost, they can reach out to the navigator.
 
 # Workshops
 
